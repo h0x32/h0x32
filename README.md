@@ -1,6 +1,6 @@
 ## About me:
 
-Hi my  name is Ibrahim Khaled, I am an Android developer with experience of over 4 years. I have also used multiple frameworks such as Flutter to develop cross-platform applications.
+Hi my  name is Ibrahim Khaled, I am an Android developer with experience of over 2 years. I have also used multiple frameworks such as Flutter to develop cross-platform applications.
 
 
 
